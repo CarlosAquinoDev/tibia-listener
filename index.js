@@ -2,7 +2,7 @@
 const dgram = require("dgram");
 const express = require("express");
 
-const TARGET = "kiwi zar".toLowerCase();
+const TARGET = "wizard oppac".toLowerCase();
 let isOnline = false;
 
 // 1) HTTP server
