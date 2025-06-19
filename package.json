@@ -6,7 +6,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "tibia-datagram": "^1.0.0",  
     "express": "^4.18.2"
   }
 }
